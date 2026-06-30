@@ -1,0 +1,3 @@
+{"type": "factual", "question": "What is retrieval-augmented generation?", "ground_truth": ""}
+{"type": "relational", "question": "Which papers cite the original BERT paper and were published in 2024?", "ground_truth": ""}
+{"type": "global", "question": "How has the RAG research area evolved since 2022?", "ground_truth": ""}

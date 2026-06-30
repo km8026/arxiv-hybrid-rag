@@ -1,0 +1,33 @@
+# LLM serving / abstraction
+litellm>=1.40
+
+# Vector store
+qdrant-client>=1.9
+
+# Graph store
+neo4j>=5.20
+
+# Embeddings / reranking
+sentence-transformers>=3.0
+
+# Evaluation
+ragas>=0.2
+
+# Data
+datasets>=2.19
+pandas>=2.2
+requests>=2.31
+tqdm>=4.66
+
+# Config
+pydantic>=2.7
+pydantic-settings>=2.3
+python-dotenv>=1.0
+
+# API / demo
+fastapi>=0.111
+uvicorn[standard]>=0.30
+
+# Community detection (Phase 3, GraphRAG)
+leidenalg>=0.10
+python-igraph>=0.11
