@@ -197,9 +197,3 @@ LiteLLM 추상화 덕분에 Phase 1의 생성 부분도 현재 환경에선 API 
 | 전체 코퍼스 과대 | cs.CL+cs.AI / 2022–2025 서브셋으로 한정 |
 | LLM 생성부 현재 환경 검증 불가 | 집 첫 실행 시 함께 검증(설계에 명시) |
 
-## 12. 포트폴리오 산출물
-
-- 아키텍처 다이어그램·정량 평가표·데모 GIF가 포함된 README
-- 재현 가능한 셋업(docker-compose + Makefile)
-- "graph wins" 정성 사례 + 논문 적용 before-after 결과
-- 본 DESIGN.md (의사결정 근거 기록)
